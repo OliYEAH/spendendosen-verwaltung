@@ -1,2 +1,4 @@
 spendendosen-verwaltung
 =======================
+
+S-Kollekt
